@@ -22,9 +22,9 @@
       "gptPrompt": "",
       "heroTitle": "RaraWin Casino",
       "heroSubtitle": "Welcome Bonus",
-      "heroBadge": "Explore a wide selection of slots, live games and exclusive bonus offers.",
+      "heroBadge": "3,300+ Casino Games Available ",
       "ctaText": "Play Now",
-      "tagline": "3,300+ Casino Games Available",
+      "tagline": "460% + 460 Free Spins",
       "heroImage": "/uploads/286e798db6b8ad0b57d537717ec47388.webp",
       "template": "homepage",
       "isHomepage": false,
@@ -104,7 +104,7 @@
       "seo_description": "RaraWin Casino offers 3,300+ games, welcome bonuses, crypto payments, live casino titles and mobile browser access with clear deposit and withdrawal rules.",
       "html_head": "<meta name=\"google-site-verification\" content=\"MtHd0xdDhEG2ztEA18kz_-0-qSRiyXYcP54QZgtrOGM\" />\n<link rel=\"canonical\" href=\"https://rarawincasino-uk.uk/en-gb/\">\n<link rel=\"alternate\" href=\"https://rarawincasino-uk.uk/\" hreflang=\"en-IE\">\n<link rel=\"alternate\" href=\"https://rarawincasino-uk.uk/en-gb/\" hreflang=\"en-GB\">\n<meta property=\"og:locale\" content=\"en_IE\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"RaraWin Casino | Welcome Bonus 460% + 460 Free Spins\">\n<meta property=\"og:description\" content=\"RaraWin Casino offers 3,300+ games, welcome bonuses, crypto payments, live casino titles and mobile browser access with clear deposit and withdrawal rules.\">\n<meta property=\"og:url\" content=\"https://rarawincasino-uk.uk/\">\n<meta property=\"og:site_name\" content= \"RaraWin Casino\">\n",
       "faq_title": "FAQ",
-      "hero_badge": "Explore a wide selection of slots, live games and exclusive bonus offers.",
+      "hero_badge": "3,300+ Casino Games Available ",
       "cta_text": "Play Now",
       "heroImage_alt": "rarawin casino banner.",
       "popupLogo_alt": "rarawin casino logo",
@@ -170,9 +170,9 @@
   "redirect_site": null,
   "hero_title": "RaraWin Casino",
   "hero_subtitle": "Welcome Bonus",
-  "hero_badge": "Explore a wide selection of slots, live games and exclusive bonus offers.",
+  "hero_badge": "3,300+ Casino Games Available ",
   "cta_text": "Play Now",
-  "tagline": "3,300+ Casino Games Available",
+  "tagline": "460% + 460 Free Spins",
   "features_list": null,
   "footer_text": "© 2026. RaraWin Casino. All rights reserved",
   "popup_text": "Crypto Bonus up to 1,250 USDT + 110 FS",
@@ -188,10 +188,10 @@
   "accent_color": "#334155",
   "main_background": "#121514",
   "secondary_background": "#090b0b",
-  "button_background": "#ffffff",
+  "button_background": "#c69a60",
   "button_text_color": "#000000",
   "text_color": "#ffffff",
-  "color_highlight_text": "#c69a60",
+  "color_highlight_text": "#ffffff",
   "color_main_btn_text": "#fafff0",
   "cta_background": "#c69a60",
   "logo": {
@@ -379,8 +379,8 @@
       "question": "How does the Crypto Welcome Bonus differ from the standard welcome package?"
     }
   ],
-  "_generated_at": "2026-10-02T13:42:58.479Z",
+  "_generated_at": "2026-10-02T13:44:59.910Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-10-02T13:42:59.076Z",
-  "_deploy_trigger": "5s6tjk"
+  "_last_deploy": "2026-10-02T13:45:00.777Z",
+  "_deploy_trigger": "x60z5n"
 }
