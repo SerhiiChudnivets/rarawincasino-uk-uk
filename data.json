@@ -5,7 +5,7 @@
   "url": "rarawincasino-uk.uk",
   "template": "tupchiy",
   "language_code": "en-IE",
-  "allow_indexing": false,
+  "allow_indexing": true,
   "redirect_404s_to_homepage": true,
   "use_www_version": false,
   "breadcrumbs": true,
@@ -379,8 +379,8 @@
       "question": "How does the Crypto Welcome Bonus differ from the standard welcome package?"
     }
   ],
-  "_generated_at": "2026-10-02T13:47:41.164Z",
+  "_generated_at": "2026-10-02T14:50:44.796Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-10-02T13:47:41.738Z",
-  "_deploy_trigger": "i0rj39"
+  "_last_deploy": "2026-10-02T14:50:45.355Z",
+  "_deploy_trigger": "snhrx"
 }
