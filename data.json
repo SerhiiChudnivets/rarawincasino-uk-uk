@@ -191,7 +191,7 @@
   "button_background": "#c69a60",
   "button_text_color": "#000000",
   "text_color": "#ffffff",
-  "color_highlight_text": "#ffffff",
+  "color_highlight_text": "#c69a60",
   "color_main_btn_text": "#fafff0",
   "cta_background": "#c69a60",
   "logo": {
@@ -379,8 +379,8 @@
       "question": "How does the Crypto Welcome Bonus differ from the standard welcome package?"
     }
   ],
-  "_generated_at": "2026-10-02T13:44:59.910Z",
+  "_generated_at": "2026-10-02T13:47:41.164Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-10-02T13:45:00.777Z",
-  "_deploy_trigger": "x60z5n"
+  "_last_deploy": "2026-10-02T13:47:41.738Z",
+  "_deploy_trigger": "i0rj39"
 }
